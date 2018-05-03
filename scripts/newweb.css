@@ -1,0 +1,226 @@
+body {
+	font-family: verdana, helvetica, sans-serif;
+	background-color: white;
+	margin: 0%;
+}
+
+.link1 a:link {
+	text-decoration: none; color: black;
+}
+
+.link1 a:visited {
+	text-decoration: none; color: black;
+}
+
+.link1 a:active {
+	text-decoration: none; color: black;
+}
+
+.link1 a:hover {
+	text-decoration: none; color: white;
+}
+
+.link2 a:link {
+	text-decoration: none; color: #003366;
+}
+
+.link2 a:visited {
+	text-decoration: none; color: #003366;
+}
+
+.link2 a:active {
+	text-decoration: none; color: #003366;
+}
+
+.link2 a:hover {
+	text-decoration: none; color: #993399;
+}
+
+.link3 a:link {
+	text-decoration: none; color: black;
+}
+
+.link3 a:visited {
+	text-decoration: none; color: black;
+}
+
+.link3 a:active {
+	text-decoration: none; color: black;
+}
+
+.link3 a:hover {
+	text-decoration: none; color: #993399;
+}
+
+h1 {
+	margin: 25% 0% 0% 0%;
+	font-family: monospace;
+	font-size: 300%;
+}
+
+h2 {
+	margin: 0% 0% 0% 10%;
+	font-family: monospace;
+	font-size: 150%;
+	text-align: left;
+}
+
+h3 {
+	margin: 0% 10% 0% 0%;
+	font-family: monospace;
+	font-size: 150%;
+	text-align: right;
+}
+
+h4 {
+	margin: 2% 0% 0% 5%;
+	font-family: monospace;
+	font-size: 125%;
+	text-align: left;
+}
+
+h5 {
+	margin: 2% 5% 0% 0%;
+	font-family: monospace;
+	font-size: 125%;
+	text-align: right;
+}
+
+h6 {
+	margin: 5% 20% 0% 20%;
+	font-family: monospace;
+	font-size: 100%;
+	text-align: justify;
+}
+
+p.indent {
+	text-indent: 3em
+}
+
+p.indent2 {
+	text-indent: 6em;
+}
+
+p.indent3 {
+	text-indent: 9em;
+}
+
+.center {
+	text-align: center;
+}
+
+/* By the way, this is a comment */
+
+img {
+	border-width: 0px;
+}
+
+a {
+	text-decoration: none;
+	outline-style: none;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+.bborder {
+	background-color: white;
+	vertical-align: middle;
+	text-align: center;
+}
+
+.aborder {
+	background-color: #993399;
+	text-align: right;
+}
+
+.wlinks {
+	background-color: white;
+	font-size: 100%;
+	font-family: "tunga";
+	text-align: center;
+	vertical-align: middle;
+}
+
+#issue {color: #993399;
+	background-color: #ccff33;
+	font-size: 82%;
+	font-family: "arial black";
+	text-align: left;
+	vertical-align: top;
+	padding: 5px 1em 5px 0em;
+}
+
+.tleft {
+	color: black;
+	background-color: #ccff33;
+	font-size: 82%;
+	font-family: "verdana";
+	text-align: justify;
+	vertical-align: top;
+	padding: 15px 1em 5px 1em;
+}
+
+#date {
+	color: #ccff33;
+	background-color: black;
+	font-size: 82%;
+	font-family: "arial black";
+	text-align: right;
+	vertical-align: top;
+	padding: 5px 0em 5px 1em;
+}
+
+.tright {
+	color: #993399;
+	background-color: black;
+	font-size: 82%;
+	font-family: "verdana";
+	text-align: justify;
+	vertical-align: top;
+	padding: 15px 1em 5px 1em;
+}
+
+.numbers {
+	font-family: "arial black";
+}
+
+.authors {
+	font-family: "arial black";
+}
+
+.next {
+	color: #993399;
+	font-family: "arial black";
+	text-align: right;
+}
+
+.last {
+	color: black;
+	font-family: "arial black";
+	text-align: left;
+}
+
+p.center {
+	text-align: center;
+}
+
+.pleft {
+	color: black;
+	font-family: "arial black";
+	text-align: right;
+	font-size: 75%;
+}
+
+.pright {
+	color: #ccff33;
+	font-family: "arial black";
+	text-align: left;
+	font-size: 75%;
+}
+
+#souls {
+	font-size: 1.5em;
+}
